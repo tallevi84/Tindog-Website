@@ -1,3 +1,3 @@
 # tindog-website
-In this project I created a website simliar to Tinder, but this one is for dogs.
+A responsive website similar to Tinder for dogs, created using HTML and CSS. Designed the layout and styling to ensure a user-friendly experience.
 Enjoy!
